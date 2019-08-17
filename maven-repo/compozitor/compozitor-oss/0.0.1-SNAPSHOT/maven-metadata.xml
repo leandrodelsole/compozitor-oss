@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>compozitor</groupId>
+  <artifactId>compozitor-oss</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190817.203938</timestamp>
+      <buildNumber>24</buildNumber>
+    </snapshot>
+    <lastUpdated>20190817203938</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20190817.203938-24</value>
+        <updated>20190817203938</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
